@@ -1,0 +1,3 @@
+123456789101,Markus,Ruhl,hejsan,False,False
+202023542132,Leon,Bonstrom,Tjena,False,False,1234567
+200412025165,Arre,Maxberg,Arre123,False,True

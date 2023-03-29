@@ -1,0 +1,2 @@
+Harry Potter,Greta,12345678,Genre,True
+starwars,stephanking,1234567,geografi,False
